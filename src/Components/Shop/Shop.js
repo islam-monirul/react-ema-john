@@ -16,6 +16,7 @@ const Shop = () => {
      const handleAddToCart = (product) => {
           // console.log(...cart);
           // using spread operator
+          // console.log(product);
           const newCart = [...cart, product];
           setCart(newCart);
           // console.log(newCart);
