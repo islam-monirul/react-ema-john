@@ -12,3 +12,13 @@
 .cart-container {
   padding: 0 25px;
 }
+
+.search-container input {
+  width: 75%;
+}
+
+.search-container {
+  background-color: #000;
+  text-align: center;
+  line-height: 50px;
+}
